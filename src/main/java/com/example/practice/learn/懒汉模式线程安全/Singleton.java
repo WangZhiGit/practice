@@ -1,4 +1,4 @@
-package com.example.practice.learn;
+package com.example.practice.learn.懒汉模式线程安全;
 
 //懒汉模式线程安全--volatile
 public class Singleton {
